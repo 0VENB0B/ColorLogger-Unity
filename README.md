@@ -3,7 +3,7 @@
 
 Color Your Log message
 
-![image.png](https://raw.githubusercontent.com/0VENB0B/ColorLogger-Unity/refs/heads/main/ColorLog/Preview.PNG?token=GHSAT0AAAAAADCAAKJXIPMR2MIU245USKWQ2DX7H6A)
+![image.png](https://raw.githubusercontent.com/0VENB0B/ColorLogger-Unity/refs/tags/Unity/ColorLog/Preview.PNG?token=GHSAT0AAAAAADCAAKJWOYYL7CEPAGO5TZE62DX7N4Q)
 
 ## How to use?
 
