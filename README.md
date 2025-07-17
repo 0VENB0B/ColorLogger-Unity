@@ -3,13 +3,13 @@
 
 Color Your Log message
 
-![image.png](https://raw.githubusercontent.com/0VENB0B/ColorLogger-Unity/refs/tags/Unity/ColorLog/Preview.PNG?token=GHSAT0AAAAAADCAAKJWOYYL7CEPAGO5TZE62DX7N4Q)
+![image.png](https://github.com/0VENB0B/ColorLogger-Unity/blob/main/ColorLog/Preview.PNG)
 
 ## How to use?
 
 
 ### Simple Log
-![logPart.png](https://raw.githubusercontent.com/0VENB0B/ColorLogger-Unity/refs/heads/main/ColorLog/logPart.png?token=GHSAT0AAAAAADCAAKJWOIWYL6UO72IGLST42DX7JMQ)
+![logPart.png](https://raw.githubusercontent.com/0VENB0B/ColorLogger-Unity/refs/heads/main/ColorLog/logPart.png)
 
 
 ### Warning and error log
